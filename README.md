@@ -8,4 +8,4 @@
 * Hudba
 * Zabezpečení
 # Návody❓
-Brzy
+[Zde odkaz na GitHub Wiki](https://github.com/lksmasin/SahraB/wiki/)
