@@ -1,6 +1,6 @@
 # SahraB 🤖
 ## Oficiální GitHub pro SahraB Discord bota!
-## Pozvat zde: [klikni](google.com)
+## [Pozvat na discord](https://discord.com/api/oauth2/authorize?client_id=942749045007478795&permissions=8&scope=bot)
 ### Source kód bude doplněn brzy!
 # Příkazy❗
 * Moderace
